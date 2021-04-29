@@ -1,0 +1,67 @@
+.circleBtn {
+  color: white;
+  background-color: #f869a5;
+  border-radius: 40px 40px 40px 40px;
+  margin-top: -5px;
+}
+
+.circleBtn:hover {
+  color: white;
+  background-color: #f01a73;
+}
+
+li {
+  margin: 5px;
+}
+
+.menuPrincipal {
+  margin-top: 20px;
+  margin-left: 180px;
+}
+
+.centroCard {
+  vertical-align: middle;
+}
+
+.primaryColor {
+  color: #f869a5;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+.jumbotron-with-background {
+  background-image: url("../imagens/cardPrincipal.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.max150 {
+  max-width: 1500ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.map-container-2 {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.map-container-2 iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+/*# sourceMappingURL=style.css.map */
